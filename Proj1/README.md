@@ -69,6 +69,7 @@ This is a linear first-order ODE representing an exponential approach toward ful
 ## References
 1. SciPy documentation – [https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)  
 2. Matplotlib documentation – [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)  
+3. Bronson, R. and Costa, G. (2022). Schaum's outline of differential equations (5th ed.). McGraw-Hill: New York, NY
 
 ---
 
