@@ -62,7 +62,7 @@ This is a linear first-order ODE representing an exponential approach toward ful
 *(Insert images here after running the program)*  
 
 - Example plot of battery charging curve:
-![Battery Charging Curve](CST-305/Proj1/battery_charging_curve.png)  
+![Battery Charging Curve](battery_changing_curve.png)  
 
 ---
 
@@ -89,6 +89,6 @@ python battery_charging.py
 ```
 
 - Proof of Code Running:
-![Running Code](CST-305/Proj1/running_code.png)  
+![Running Code](code_running.png)  
 
 
