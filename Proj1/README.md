@@ -35,7 +35,7 @@ dQ/dt = (Q_max - Q / (R*C))
 
 Where:  
 - \( Q \) = current battery charge (%)  
-- \( Q_{\text{max}} \) = maximum battery charge (100%)  
+- \( Q_max \) = maximum battery charge (100%)  
 - \( R \) = effective resistance of the charging circuit  
 - \( C \) = battery capacitance  
 - \( RC \) = time constant of the battery  
