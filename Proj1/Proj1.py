@@ -8,7 +8,7 @@ import numpy as np
 Course: CST-305: Computational Modeling and Simulation
 Project: Visualizing an ODE for Battery Charging
 Author(s): Josh Nelson, Martin Battu, Karik Freiheit
-
+Instructor: Dr. Citro
 Purpose: Create and Model an ODE with Python that relates to a function in a computer.
 
 Packages: matplotlib, scipy, numpy
