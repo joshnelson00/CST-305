@@ -6,12 +6,11 @@ from tabulate import tabulate  # type: ignore
 
 # Define the ODE
 def f(x, y):
-    #return y/(np.exp(x) - 1)
-    return (x*x) + y
+    return y/(np.exp(x) - 1)
 
 # Initial conditions
-x0, y0 = 0, 1
-h = 0.1
+x0, y0 = 1, 5
+h = 0.02
 num_steps = 1000
 xf = x0 + h*num_steps
 x_eval = np.linspace(x0, xf, num_steps)
